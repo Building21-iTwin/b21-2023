@@ -13,6 +13,8 @@ To perform operations, you enter _commands_ in the terminal. This is _input_. Tr
 
 `whoami`
 
+(Press enter or return after typing each command to run it)
+
 This display some text - the username of the active user. This is _output_.
 
 Here are some other commands you can try out now:
@@ -70,3 +72,7 @@ Now let's delete them all at once:
 List the directory contents to verify:
 
 - `ls`
+
+## History
+
+Most terminals store a history of your commands. You can work back through your command history by pressing the up arrow, and then can move forward in time by pressing the down arrow. You can also search for a particular command by entering `control+r` and then typing some search terms. If there's a match in your history, the full command will appear and you can hit enter to run it.
