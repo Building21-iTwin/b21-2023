@@ -23,4 +23,4 @@ Download this repository using the command:`git clone https://github.com/Buildin
 Use 'Setup' instructions to configure.
 
 
-Hello Git
+Configure email using private email found here: http://github.com/settings/emails
