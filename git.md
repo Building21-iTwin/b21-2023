@@ -12,6 +12,8 @@ A website that hosts Git Repositories and has other services that developers use
 
 Got to https://github.com and create an account, it's free!
 
+Share user name so you can be added to the team.
+
 Download this repository using the command:`git clone https://github.com/Building21-iTwin/b21-2023.git`
 
 ## How to use GitHub
