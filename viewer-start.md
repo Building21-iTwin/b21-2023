@@ -3,6 +3,8 @@
 ## Install Pre-requisites
 
 1. Install Docker desktop
+    - https://docs.docker.com/engine/install/ubuntu/
+    - https://docs.docker.com/engine/install/linux-postinstall/
 1. Install the Dev Container Extension in VSCode
     - Search for `ms-vscode-remote.remote-containers`
 
@@ -29,4 +31,4 @@
     - IMJS_AUTH_CLIENT_SCOPES: Enter the Scopes for the client you registered during the Register a Client step
     - IMJS_ITWIN_ID: Enter the iTwinId that was generated during the Create an iModel step
     - IMJS_IMODEL_ID: Enter the iModelID that was generated during the Create an iModel step
-1. In the terminal window, enter npm start. This will serve the application with live reloading.
+1. In the terminal window, enter `npm start`. This will serve the application with live reloading.
