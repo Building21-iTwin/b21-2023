@@ -31,7 +31,7 @@ You'll create a new repository on GitHub, and then `push` your local code to the
 We're going to push that local repo to Github.
 
 1. Go to https://github.com and login with the account info you created above.
-2. Click on the green "new" button to start creating a new repo.
+2. Click on the green "Create Repository" (or maybe "New") button to start creating a new repo.
 3. Enter a name for your repository. The name you used to create your app is a good idea.
 4. Click "Create Repository" at the bottom of the page.
 5. Because you already have a local repository, you'll want to follow the second block of instructions titled "…or push an existing repository from the command line"
