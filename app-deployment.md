@@ -68,6 +68,8 @@ Leave the rest of the options the same and click "import variables".
 
 ## Modify App Configuration
 
+**Note this will be handled by a instructor**
+
 We still need to do one thing before we can redeploy our app and see it live on the web. We need to tell our app's configuration about the new URLs we've just registered, otherwise we won't be able to sign in.
 
 - Go to https://developer.bentley.com
