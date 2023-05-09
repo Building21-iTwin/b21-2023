@@ -13,4 +13,3 @@ Make sure you have the project opened in the container.  If not use the command.
 ## Making the changes
 
 The color picker is now in `MyFirstWidget.tsx` because it sets the color for all groups.  It needs to be moved to `BuildingGroupComponent.tsx` so there is one per group.
-
